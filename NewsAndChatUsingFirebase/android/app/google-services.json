@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751375689541",
+    "firebase_url": "https://fir-2af78.firebaseio.com",
+    "project_id": "fir-2af78",
+    "storage_bucket": "fir-2af78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751375689541:android:42b9accf57e12a2e0a802c",
+        "android_client_info": {
+          "package_name": "online.rahulthangaraj.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751375689541-kfm2sdpk1d53t4a3o502gfjgu9un1blr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.rahulthangaraj.demo",
+            "certificate_hash": "592ad29da9085e4cc6092c6032c9c73e67774907"
+          }
+        },
+        {
+          "client_id": "751375689541-beish2flp13h3tnngg17rgmla46cgjm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWcX70arSWmd2pSsOblqRIN1ebYWFdWXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751375689541-beish2flp13h3tnngg17rgmla46cgjm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
